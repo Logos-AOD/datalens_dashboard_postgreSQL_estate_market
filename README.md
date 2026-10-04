@@ -95,7 +95,7 @@
 - Средняя цена за м² и площадь по категориям
 - Селекторы по региону, типу населённого пункта и сроку экспозиции
 
-🔗 [Открыть дашборд](https://datalens.yandex/57sg5df9aqyko?_share_link=public)
+[Открыть дашборд](https://datalens.yandex/57sg5df9aqyko?_share_link=public)
 
 ---
 
